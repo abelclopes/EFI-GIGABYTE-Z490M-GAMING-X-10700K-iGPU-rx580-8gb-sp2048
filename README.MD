@@ -40,7 +40,7 @@ configure vda: [Tutorial](https://www.youtube.com/watch?v=CpyExVjCeMY&t)
 - VirtualSMC.kext
 - WhateverGreen.kext
 
-## EFI With only ipgu
+## EFI With only igpu
 [EFI-GIGABYTE-Z490M-GAMING-X-10700K-iGPU](https://github.com/abelclopes/EFI-GIGABYTE-Z490M-GAMING-X-10700K-iGPU)
 
 
